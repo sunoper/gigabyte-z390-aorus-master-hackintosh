@@ -45,4 +45,3 @@ Or in other words, I disabled:
 I have included the [`USB.plist`](assets/USB.plist) file I generated with USBMap. This is specific to the Gigabyte Aorus z390 Master board and will NOT work with similar boards (such as the Elite or Pro). Each port is named to make things a bit easier.
 
 In order to use my USB map, just copy the included `USB.plist` to `USBMap/Scripts`. By using my USB map, you will not spend time discovering your ports.
-
