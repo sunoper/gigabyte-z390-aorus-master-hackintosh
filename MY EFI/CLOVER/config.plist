@@ -204,7 +204,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>{{GENERATE ME}}</string>
+		<string>C02926501J9LNV9JC</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -234,9 +234,9 @@
 		<key>ProductName</key>
 		<string>iMac19,1</string>
 		<key>SerialNumber</key>
-		<string>{{GENERATE ME}}</string>
+		<string>C02YXUZ7JV3Q</string>
 		<key>SmUUID</key>
-		<string>{{GENERATE ME}}</string>
+		<string>B4022E03-99044805-FF062B07-00080009</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
